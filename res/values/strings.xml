@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HealthTrackerPro</string>
+    <string name="hello">Hello World, ImageUpload!</string>
+    <string name="name">Name</string>
+    <string name="age">Age</string>
+    <string name="gender">Gender</string>
+    <string name="blood">Blood</string>
+    <string name="height">Ht.</string>
+    <string name="weight">Wt.</string>
+    <string name="pulse">Pulse</string>
+    <string name="bp">BP</string>
+    <string name="cholesterol">Cholesterol</string>
+    <string name="phoneno">PhoneNo</string>
+    <string name="address">Address</string>
+
+    <string-array name="genderlist">
+        <item>Gender</item>
+        <item>M</item>
+        <item>F</item>
+    </string-array>
+    <string-array name="bloodgrouplist">
+        <item>BloodGroup</item>
+        <item>O+ve</item>
+        <item>AB+</item>
+        <item>B+</item>
+    </string-array>
+    <string-array name="health_calculator_list">
+        <item>Body Mass Index</item>
+        <item>Body Surface Area</item>
+        <item>Body Fat Percentage</item>
+    </string-array>
+
+    <string name="save">Save</string>
+    <string name="serverUrl"></string>
+    <string name="WebServiceURL">http://10.0.2.2</string>
+    <string name="homeBt">Home</string>
+    
+    <!-- User CI REST API Constants -->
+    <string name="userName">UserName</string>
+    <string name="email">Email</string>
+    <string name="back">Back</string>
+    <string name="medium_text">Medium Text</string>
+    <string name="todo">TODO</string>
+    <string name="delete_user_icon">Delete User Icon</string>
+
+</resources>
